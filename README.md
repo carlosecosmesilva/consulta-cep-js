@@ -4,7 +4,7 @@ Esse site foi desenvolvido para testar meus conhecimentos de como utilizar e con
 
 ### Links
 
-- [Site](https://brave-newton-796b3a.netlify.app/) Link para acesso ao site
+- Link para acesso ao site [Site](https://brave-newton-796b3a.netlify.app/) 
 
 ## Processo de construção
 
